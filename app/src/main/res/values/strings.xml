@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecycleViewPractice</string>
+    <string name="player_text">RecyclerView best practise</string>
+</resources>
